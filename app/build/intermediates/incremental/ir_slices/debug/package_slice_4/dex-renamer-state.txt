@@ -1,0 +1,4 @@
+#Tue Jun 18 02:21:59 PKT 2019
+base.0=/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
