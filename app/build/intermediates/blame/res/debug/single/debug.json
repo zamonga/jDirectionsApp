@@ -644,6 +644,10 @@
         "source": "/home/kamranali/.gradle/caches/transforms-2/files-2.1/4260a652518e00986fb50dba47263bae/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
+        "merged": "/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/build/intermediates/res/merged/debug/raw_splash_video.mp4.flat",
+        "source": "/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/src/main/res/raw/splash_video.mp4"
+    },
+    {
         "merged": "/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/build/intermediates/res/merged/debug/drawable_design_password_eye.xml.flat",
         "source": "/home/kamranali/.gradle/caches/transforms-2/files-2.1/9507ae35d6d5657c8a80fcbf24aa417d/res/drawable/design_password_eye.xml"
     },
@@ -842,6 +846,10 @@
     {
         "merged": "/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
         "source": "/home/kamranali/.gradle/caches/transforms-2/files-2.1/4260a652518e00986fb50dba47263bae/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/src/main/res/layout/activity_splash.xml"
     },
     {
         "merged": "/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",

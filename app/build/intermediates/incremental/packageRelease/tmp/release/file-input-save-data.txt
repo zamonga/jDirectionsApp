@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jul 03 00:48:06 PKT 2019
+1.base=/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/build/intermediates/dex/release/mergeDexRelease/out
+2.path=fonts/Product Sans Regular.ttf
+0.baseType=DIRECTORY
+2.base=/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/build/intermediates/merged_assets/release/out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=fonts/robotoslab.ttf
+0.set=ASSET
+0.base=/home/kamranali/AndroidStudioProjects/JDirectionsApp/app/build/intermediates/merged_assets/release/out
+2.baseType=DIRECTORY
+1.path=classes.dex

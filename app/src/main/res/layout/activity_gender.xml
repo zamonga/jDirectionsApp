@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.jdirectionsapp123456.activity.GenderActivity">
+    tools:context="com.jdirectionsapp12345.activity.GenderActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -29,12 +29,12 @@
         android:id="@+id/tv_select_gender"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Please select gender"
+        android:text="Looking For?"
         android:textSize="30sp"
         android:textColor="#000000"
         android:layout_centerInParent="true"
         android:layout_marginBottom="20dp"
-        android:gravity="center"/>
+        android:gravity="center" />
 
     <FrameLayout
         android:layout_width="match_parent"
@@ -52,13 +52,13 @@
         android:weightSum="5">
 
 
-        <TextView
-            android:id="@+id/tv_gender_male"
+        <Button
+            android:id="@+id/btn_gender_male"
             android:layout_width="0dp"
             android:layout_weight="2"
             android:layout_height="90dp"
             android:text="  Male  "
-            android:textSize="30sp"
+            android:textSize="25sp"
             android:textColor="#000000"
             android:background="@drawable/buttonshape"
             android:layout_gravity="right"
@@ -69,13 +69,13 @@
             android:layout_weight="1"
             android:layout_height="60dp"/>
 
-        <TextView
-            android:id="@+id/tv_gender_female"
+        <Button
+            android:id="@+id/btn_gender_female"
             android:layout_width="0dp"
             android:layout_weight="2"
             android:layout_height="90dp"
             android:text="  Female  "
-            android:textSize="30sp"
+            android:textSize="25sp"
             android:textColor="#000000"
             android:background="@drawable/buttonshape"
             android:layout_gravity="left"
